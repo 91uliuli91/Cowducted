@@ -1,2 +1,1 @@
-# Cowducted
-videojuego/three.js
+# COW-PLAY
